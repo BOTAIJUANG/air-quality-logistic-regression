@@ -1,4 +1,4 @@
-# IJC437 Project Repository
+air-quality-logistic-regression
 
 This repository contains the R code I used in the IJC437 Applied Data Science Course Project. 
 This project analyses the daily PM2.5 concentration in London and explores whether meteorological 
